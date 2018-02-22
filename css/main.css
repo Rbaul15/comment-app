@@ -1,0 +1,33 @@
+body{
+	background-color: tomato !important;
+}
+
+.wrap{
+	text-align: center;
+	padding: 20px;
+}
+
+#username,
+#comment{
+	width: 250px;
+	border-radius: 5px;
+}
+
+#comment{
+	margin: 20px;
+}
+
+.singlecomment{
+	margin: 20px;
+	border: 2px black solid;
+	border-radius: 5px;
+}
+
+#commentBox{
+	width: 500px;
+	text-align: center;
+	display: inline-block;
+}
+
+
+
