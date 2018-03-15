@@ -19,7 +19,7 @@ function addCom(){
 	// Get the value of the input tags
 	let username = document.getElementById("username").value;
 	let comment = document.getElementById("comment").value;
-	// Create elemetns for each input
+	// Create elements for each input
 	const userh1 = document.createElement("h1");
 	const commentP = document.createElement("p");
 	const time = document.createElement("p");
